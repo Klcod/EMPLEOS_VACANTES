@@ -84,4 +84,10 @@ public CategoriasServiceImpl() {
 	}		
 	return null;	
 }
+
+	@Override
+	public void eliminar(Integer idCategoria) {
+		
+		
+	}
 }
